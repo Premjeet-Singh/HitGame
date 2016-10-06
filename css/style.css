@@ -1,0 +1,45 @@
+
+body{ 
+background:#CCC; 
+} 
+#wrap{
+  width: 700px;
+  height: auto;
+  margin: 30px auto;
+  padding: 20px;
+  background: lightseagreen;
+  border: 5px solid #8FBC8F;
+}
+
+#my_canvas{
+  margin: 20px 97px;
+  background: #F0F8FF; 
+  border:#000 1px solid; 
+}
+#btn{
+  width: 500px;
+  height: 70px;
+  margin: 0px auto 20px;
+  background: #CD9575;
+}
+#left_btn, #right_btn, #fire_btn{
+  width: 140px;
+  height: 45px;
+  font-size: 16px;
+  margin: 13px 5.5px;
+  background: #F0F8FF;
+  border: 2px solid maroon;
+  cursor: pointer;
+}
+#left_btn{
+  margin-left: 24px;
+}
+#status{
+  display: none;
+  width: 400px;
+  height: auto;
+  margin: 10px auto;
+  padding: 10px;
+  background: #F5F5DC;
+  text-align: center;
+}
